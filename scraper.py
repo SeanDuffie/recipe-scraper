@@ -68,6 +68,8 @@ def parse_table(soup: BeautifulSoup) -> pd.DataFrame:
 
 if __name__ == "__main__":
     URL = "https://natashaskitchen.com/banana-bread-recipe-video/"
+    URL2 = "https://www.allrecipes.com/recipe/283621/the-perfect-deviled-eggs/"
+    URL3 = "https://lilluna.com/creamy-swiss-chicken-bake/"
     HTML = scrape_website(url=URL)
     print(HTML)
     # db = parse_table(soup=HTML)
