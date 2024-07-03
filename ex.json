@@ -1,0 +1,30 @@
+{
+    "Name": "Deviled Eggs",
+    "Author": "Sean Duffie",
+    "URL": "www.google.com",
+    "Nutrients": {
+        "Calories": 10,
+        "Protein": 3,
+        "Fat": 2,
+        "Carbs": 1
+    },
+    "Ingredients": [
+        {
+            "Amount": "12",
+            "Unit": "",
+            "Name": "Eggs"
+        },
+        {
+            "Amount": "1/3",
+            "Unit": "cup",
+            "Name": "Mayonnaise"
+        }
+    ],
+    "Instructions": [
+        "Boil the eggs for ~8-10 minutes, or until the yoke is hardened.",
+        "Peel shell and cut the hardboiled eggs in half.",
+        "Scoop out the yoke and place in a large plastic bag.",
+        "Add all other ingredients to the bag and mix thoroughly.",
+        "Cut a hole in the bottom corner of the ziplock back and squeeze out in where the yoke was."
+    ]
+}
